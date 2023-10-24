@@ -14,7 +14,7 @@
 - sklearn
 
 Модели:
-CatBoostClassifier
+- CatBoostClassifier
 - GradientBoostingClassifier (sklearn.ensemble)
 - RandomForestClassifier (sklearn.ensemble)
 
